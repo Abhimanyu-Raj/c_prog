@@ -2,7 +2,8 @@
 int main()
 {
 	int count=0,c,c2=0,c3=0;
-		
+	printf("This program counts spaces, tabs, lines till file is ended\n press cntrl+D to end file and see output\n\n");
+	printf("enter the characters/string/lines\n");	
 	while((c=getchar())!=EOF)
 	{
 		if(c=='\n')

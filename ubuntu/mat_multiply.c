@@ -56,19 +56,21 @@ int mul_mat(int a[][100], int b[][100],int row1,int col1,int row2,int col2)
 				c[i][k]=sum;
 			}
 		}
+	
+		printf("the multiplied matrix is\n");
+		for(i=0;i<row1;i++)
+		{
+			for(k=0;k<col2;k++)
+			{
+				printf("%d\t",c[i][k]);
+			}
+			printf("\n");
+		}
 	}
 	else
 	{
-		printf("error:column size of 1st matrix sould match with row size of 2nd matrix for multiplication\n");
+		printf("error: the column size of 1st matrix should be equal to row size of second matrix for successful multiplication\n");
 	}
-	printf("the multiplied matrix is\n");
-	for(i=0;i<row1;i++)
-	{
-		for(k=0;k<col2;k++)
-		{
-			printf("%d\t",c[i][k]);
-		}
-		printf("\n");
-	}
+
 	return 0;
 }

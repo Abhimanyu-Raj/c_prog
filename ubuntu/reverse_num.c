@@ -14,9 +14,9 @@ int main()
 	} while (b>=10);
 	for(j=0;j<=i;j++)
 	{
-		mul=pow(10,(i-j));
+		mul=pow(10,(i-j)); //must use -lm during compiling to link to math lib.
 		rev=rev+(arr[j]*mul);
 	}
-	printf("the reversed digit is %d\n", rev);
+	printf("the reversed number is %d\n", rev);
 	return 0;
 }

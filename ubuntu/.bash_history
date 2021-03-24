@@ -540,3 +540,91 @@ gcc sum_of_digit.c -g
 gdb ./a.out
 gcc sum_of_digit.c -g
 gdb ./a.out
+git -v
+git --version
+ls
+cd ..
+ls
+git --version
+git status
+git inti
+git init
+sudo su
+exit
+ssh -vvv git@github.com
+git -vvv git@github.com
+ssh -vvv git@github.com
+ssh-add ~/.ssh/id_rsa
+git clone git@github.com:Abhimanyu-Raj/c_prog
+git push -u -f origin master
+git remote add origin https://github.com/Abhimanyu-Raj/c_prog
+cd ~/.ssh
+ls
+ssh keygen -o
+ssh keygen --o
+ssh-keygen -o
+ls
+cat id_rsa.pub
+cd ..
+cd/
+cd /
+ls
+cd home
+cd ubuntu
+ls
+cd ..
+git push -u -f origin master
+clear
+vim multi.c
+clear
+vi multi.c
+gcc multi.c
+./a.out
+gcc multi.c -g
+gdb ./a.out
+gcc multi.c -g
+gdb ./a.out
+vim multi.c
+gcc multi.c
+./a.out
+clear
+vi remov_dup.c
+gcc remov_dup.c
+./a.out
+vi remov_dup.c
+gcc remov_dup.c -g
+gdb ./a.out
+gcc remov_dup.c -g
+gdb ./a.out
+vi remov_dup.c
+gcc remov_dup.c
+./a.out
+vi remov_dup.c
+gcc remov_dup.c
+./a.out
+vi remov_dup.c
+gcc remov_dup.c
+./a.out
+vi remov_dup.c
+ls
+git add mat_multiply.c remov_dup.c
+sudo su
+clear
+cat /root/.ssh/id_rsa.pub
+sudo su
+clear
+ls
+sudo su
+exit
+clear
+vi remov_dup.c
+gcc remov_dup.c
+./a.out
+vi remov_dup.c
+gcc remov_dup.c
+./a.out
+vi remov_dup.c
+clear
+ls
+gcc space_count.c
+./a.out

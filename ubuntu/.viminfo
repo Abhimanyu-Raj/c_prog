@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1616322606,,"wq"
+|2,0,1616581970,,"wq"
 :q
 |2,0,1616322590,,"q"
 :w
@@ -48,237 +48,355 @@
 	
 |3,0,1,1,1,0,1611738779,""
 ""-	CHAR	0
-	g
-|3,1,36,0,1,0,1616163254,"g"
+		
+|3,1,36,0,1,0,1616580292,"	"
 
 # File marks:
-'0  32  18  ~/fre_numb.c
-|4,48,32,18,1616322606,"~/fre_numb.c"
-'1  34  18  ~/fre_numb.c
-|4,49,34,18,1616322598,"~/fre_numb.c"
-'2  34  18  ~/fre_numb.c
-|4,50,34,18,1616322598,"~/fre_numb.c"
-'3  35  8  ~/fre_numb.c
-|4,51,35,8,1616322560,"~/fre_numb.c"
-'4  5  8  ~/fre_numb.c
-|4,52,5,8,1616322560,"~/fre_numb.c"
-'5  35  8  ~/fre_numb.c
-|4,53,35,8,1616322560,"~/fre_numb.c"
-'6  5  8  ~/fre_numb.c
-|4,54,5,8,1616322560,"~/fre_numb.c"
-'7  40  13  ~/selec_sort.c
-|4,55,40,13,1616252826,"~/selec_sort.c"
-'8  30  2  ~/selec_sort.c
-|4,56,30,2,1616252759,"~/selec_sort.c"
-'9  30  2  ~/selec_sort.c
-|4,57,30,2,1616252759,"~/selec_sort.c"
+'0  5  113  ~/space_count.c
+|4,48,5,113,1616581970,"~/space_count.c"
+'1  5  114  ~/space_count.c
+|4,49,5,114,1616581653,"~/space_count.c"
+'2  73  1  ~/mat_multiply.c
+|4,50,73,1,1616581331,"~/mat_multiply.c"
+'3  58  1  ~/mat_multiply.c
+|4,51,58,1,1616581138,"~/mat_multiply.c"
+'4  58  1  ~/mat_multiply.c
+|4,52,58,1,1616581138,"~/mat_multiply.c"
+'5  20  27  ~/reverse_num.c
+|4,53,20,27,1616580877,"~/reverse_num.c"
+'6  17  72  ~/reverse_num.c
+|4,54,17,72,1616580820,"~/reverse_num.c"
+'7  17  72  ~/reverse_num.c
+|4,55,17,72,1616580820,"~/reverse_num.c"
+'8  24  13  ~/rev_ar.c
+|4,56,24,13,1616580616,"~/rev_ar.c"
+'9  22  14  ~/rev_ar.c
+|4,57,22,14,1616580510,"~/rev_ar.c"
 
 # Jumplist (newest first):
--'  32  18  ~/fre_numb.c
-|4,39,32,18,1616322606,"~/fre_numb.c"
--'  34  18  ~/fre_numb.c
-|4,39,34,18,1616322601,"~/fre_numb.c"
--'  34  18  ~/fre_numb.c
-|4,39,34,18,1616322598,"~/fre_numb.c"
--'  35  8  ~/fre_numb.c
-|4,39,35,8,1616322572,"~/fre_numb.c"
--'  35  8  ~/fre_numb.c
-|4,39,35,8,1616322572,"~/fre_numb.c"
--'  5  8  ~/fre_numb.c
-|4,39,5,8,1616322560,"~/fre_numb.c"
--'  5  8  ~/fre_numb.c
-|4,39,5,8,1616322560,"~/fre_numb.c"
--'  59  1  ~/fre_numb.c
-|4,39,59,1,1616322542,"~/fre_numb.c"
--'  29  1  ~/fre_numb.c
-|4,39,29,1,1616322542,"~/fre_numb.c"
--'  59  1  ~/fre_numb.c
-|4,39,59,1,1616322542,"~/fre_numb.c"
--'  29  1  ~/fre_numb.c
-|4,39,29,1,1616322542,"~/fre_numb.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  40  13  ~/selec_sort.c
-|4,39,40,13,1616252826,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252796,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  30  2  ~/selec_sort.c
-|4,39,30,2,1616252759,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252734,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  31  7  ~/selec_sort.c
-|4,39,31,7,1616252721,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252702,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  26  3  ~/selec_sort.c
-|4,39,26,3,1616252681,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
--'  25  13  ~/selec_sort.c
-|4,39,25,13,1616252645,"~/selec_sort.c"
+-'  5  113  ~/space_count.c
+|4,39,5,113,1616581970,"~/space_count.c"
+-'  5  114  ~/space_count.c
+|4,39,5,114,1616581653,"~/space_count.c"
+-'  1  0  ~/space_count.c
+|4,39,1,0,1616581473,"~/space_count.c"
+-'  1  0  ~/space_count.c
+|4,39,1,0,1616581473,"~/space_count.c"
+-'  73  1  ~/mat_multiply.c
+|4,39,73,1,1616581331,"~/mat_multiply.c"
+-'  73  1  ~/mat_multiply.c
+|4,39,73,1,1616581331,"~/mat_multiply.c"
+-'  73  1  ~/mat_multiply.c
+|4,39,73,1,1616581331,"~/mat_multiply.c"
+-'  73  1  ~/mat_multiply.c
+|4,39,73,1,1616581331,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581139,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581139,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581139,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581139,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581138,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581138,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581138,"~/mat_multiply.c"
+-'  58  1  ~/mat_multiply.c
+|4,39,58,1,1616581138,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  34  1  ~/mat_multiply.c
+|4,39,34,1,1616581053,"~/mat_multiply.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  20  27  ~/reverse_num.c
+|4,39,20,27,1616580877,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580863,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  17  72  ~/reverse_num.c
+|4,39,17,72,1616580820,"~/reverse_num.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
+-'  24  13  ~/rev_ar.c
+|4,39,24,13,1616580616,"~/rev_ar.c"
 
 # History of marks within files (newest to oldest):
 
+> ~/space_count.c
+	*	1616581968	0
+	"	5	113
+	^	5	114
+	.	5	111
+	+	6	46
+	+	5	114
+	+	5	111
+
+> ~/mat_multiply.c
+	*	1616581329	0
+	"	73	1
+	^	73	2
+	.	73	0
+	+	9	15
+	+	7	49
+	+	76	0
+	+	8	0
+	+	76	0
+	+	16	15
+	+	47	0
+	+	44	18
+	+	59	9
+	+	59	22
+	+	75	0
+	+	67	0
+	+	2	32
+	+	3	31
+	+	16	36
+	+	17	35
+	+	16	1
+	+	20	0
+	+	21	32
+	+	33	14
+	+	42	2
+	+	16	14
+	+	2	35
+	+	21	70
+	+	3	30
+	+	17	13
+	+	42	69
+	+	77	0
+	+	32	39
+	+	59	1
+	+	74	0
+	+	60	1
+	+	61	1
+	+	62	1
+	+	63	2
+	+	64	2
+	+	65	3
+	+	66	2
+	+	67	2
+	+	68	3
+	+	69	2
+	+	73	0
+
+> ~/reverse_num.c
+	*	1616580876	0
+	"	20	27
+	^	20	28
+	.	20	27
+	+	15	16
+	+	18	21
+	+	2	15
+	+	18	29
+	+	20	40
+	+	18	4
+	+	5	20
+	+	18	34
+	+	17	20
+	+	18	20
+	+	5	32
+	+	17	2
+	+	17	27
+	+	17	24
+	+	17	39
+	+	17	22
+	+	6	38
+	+	17	2
+	+	18	18
+	+	17	21
+	+	18	22
+	+	15	12
+	+	17	72
+	+	20	27
+
+> ~/rev_ar.c
+	*	1616580614	0
+	"	24	13
+	^	24	14
+	.	24	13
+	+	4	10
+	+	6	19
+	+	7	34
+	+	9	20
+	+	11	22
+	+	12	43
+	+	13	21
+	+	28	0
+	+	16	23
+	+	18	0
+	+	13	19
+	+	19	31
+	+	20	19
+	+	20	20
+	+	27	0
+	+	20	10
+	+	20	20
+	+	22	0
+	+	4	6
+	+	6	9
+	+	26	0
+	+	22	14
+	+	13	0
+	+	22	13
+	+	24	13
+
 > ~/fre_numb.c
-	*	1616322605	0
+	*	1616580175	0
 	"	32	18
 	^	34	19
 	.	34	18
@@ -312,6 +430,62 @@
 	+	61	0
 	+	34	18
 
+> ~/remov_dup.c
+	*	1616514368	0
+	"	27	12
+	^	27	13
+	.	27	11
+	+	14	9
+	+	9	0
+	+	12	17
+	+	17	32
+	+	20	4
+	+	19	10
+	+	27	31
+	+	33	0
+	+	25	13
+	+	20	14
+	+	19	11
+	+	41	0
+	+	25	17
+	+	27	11
+
+> ~/multi.c
+	*	1616501166	0
+	"	18	0
+	^	18	1
+	.	17	20
+	+	17	4
+	+	2	7
+	+	20	0
+	+	17	3
+	+	2	3
+	+	17	3
+	+	2	25
+	+	17	25
+	+	14	17
+	+	2	15
+	+	14	8
+	+	17	16
+	+	2	19
+	+	17	22
+	+	7	12
+	+	19	33
+	+	17	16
+	+	19	24
+	+	7	17
+	+	13	0
+	+	7	11
+	+	9	12
+	+	5	15
+	+	7	11
+	+	9	12
+	+	19	33
+	+	2	14
+	+	17	18
+	+	2	16
+	+	17	20
+
 > ~/selec_sort.c
 	*	1616252824	0
 	"	40	13
@@ -333,34 +507,6 @@
 	+	33	5
 	+	32	13
 	+	40	13
-
-> ~/rev_ar.c
-	*	1616226682	0
-	"	23	0
-	^	23	0
-	.	23	0
-	+	4	10
-	+	6	19
-	+	7	34
-	+	9	20
-	+	11	22
-	+	13	41
-	+	14	21
-	+	25	0
-	+	17	23
-	+	19	0
-	+	14	19
-	+	20	31
-	+	21	19
-	+	21	20
-	+	24	0
-	+	21	10
-	+	21	20
-	+	23	0
-
-> ~/space_count.c
-	*	1616168554	0
-	"	1	0
 
 > ~/char2.c
 	*	1616166329	0
@@ -473,35 +619,6 @@
 > ~/char.c?
 	*	1616054522	0
 	"	1	0
-
-> ~/reverse_num.c
-	*	1615980731	0
-	"	17	11
-	^	17	12
-	.	17	15
-	+	15	16
-	+	18	21
-	+	2	15
-	+	18	29
-	+	20	40
-	+	18	4
-	+	5	20
-	+	18	34
-	+	17	20
-	+	18	20
-	+	5	32
-	+	17	2
-	+	17	27
-	+	17	24
-	+	17	39
-	+	17	22
-	+	6	38
-	+	17	2
-	+	18	18
-	+	17	21
-	+	18	22
-	+	15	12
-	+	17	15
 
 > ~/pow.c
 	*	1615980007	0
